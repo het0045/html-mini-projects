@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VNSGU | Student Registration Form</title>
+</head>
+<body>
+    <header>
+        <h1>Veer Narmad South Gujarat University</h1>
+        <p>Welcome to the Student Registration Portal!
+        Please fill in the required details accurately to complete your registration. Your information will be used for academic records and future communication.</p>
+    </header>
+    <br><br>
+    <main>
+        <h2>Student Registration Form</h2>
+        <form action="#" method="post">
+        
+            <label for="name">Name:</label>
+            <input type="text" name="name" id="name" placeholder="Enter Your Name" required>
+            <br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email" placeholder="Enter Your Email" required>
+            <br><br>
+
+            <label for="mobile_no">Mobile No.:</label>
+            <input type="tel" name="mobile_no" id="mobile_no" placeholder="Enter Your Mobile No." maxlength="10" required>
+            <br><br>
+
+            <label for="date_of_birth">Date of Birth:</label>
+            <input type="date" name="date_of_birth" id="date_of_birth" placeholder="Enter You Date of Birth" required>
+            <br><br>
+
+            <label for="gender">Gender:</label>
+        
+            <input type="radio" name="gender" id="male" value="Male">
+            <label for="male">Male</label>
+
+            <input type="radio" name="gender" id="female" value="Female">
+            <label for="female">Female</label>
+
+            <input type="radio" name="gender" id="other" value="Other">
+            <label for="other">Other</label>
+            <br><br>
+
+            <label for="course">Course:</label>
+            <select name="course" id="course" required>
+                <option value="bsc">Bachelor of Science</option>
+                <option value="bed">Bachelor of Education</option>
+                <option value="bca">Bachelor Of Computer Application</option>
+            </select>
+            <br><br>
+            
+            <label for="hobbies">Hobbies</label>
+
+            <input type="checkbox" name="hobbies" id="reading" value="Reading">
+            <label for="reading">Reading</label>
+
+            <input type="checkbox" name="hobbies" id="writing" value="Writing">
+            <label for="writing">Writing</label>
+
+            <input type="checkbox" name="hobbies" id="traveling" value="Traveling">
+            <label for="traveling">Traveling</label>
+            <br><br>
+
+            <label for="address">Address:</label>
+            <textarea id="address" name="address"></textarea>
+            <br><br>            
+            
+            <label for="password">Password:</label>
+            <input type="password" name="password" id="password" minlength="8" required>
+            <br><br>
+            <label for="confirm_password">Confirm Password:</label>
+            <input type="password" name="confirm_password" id="confirm_password" minlength="8" required>
+            <br><br>
+
+            <button type="submit">Submit</button>
+            <button type="reset">Reset</button>
+    
+        </form>
+    </main>
+    <footer>
+        <p>© 2026 ABC College of Technology. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
