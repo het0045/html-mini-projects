@@ -1,95 +1,88 @@
-# HTML Mini Projects 🚀
+# 📚 HTML Mini Projects
 
-Welcome to my HTML learning journey!
+## 📌 Project Overview
 
-This repository contains all the HTML mini projects I build while learning Web Development from scratch.
+This repository contains a collection of beginner-friendly HTML5 projects that I built while learning the fundamentals of web development.
 
-The goal of this repository is not just to complete projects, but to build a strong understanding of HTML before moving on to CSS and JavaScript.
+Each project focuses on practicing different HTML concepts such as semantic elements, navigation, tables, forms, images, links, and page structure.
 
----
-
-## 📚 Learning Goals
-
-- Learn HTML fundamentals
-- Write clean and semantic HTML
-- Build projects without copying code
-- Practice professional folder structure
-- Upload projects using Git & GitHub
-- Prepare for Full Stack Web Development
+These projects were built without CSS or JavaScript to strengthen my understanding of pure HTML before moving on to styling and interactivity.
 
 ---
 
-# 📂 Projects
+## 📂 Projects Included
 
-## Project 01 — Personal Portfolio
+### 1. Portfolio Website
 
-### Topics Covered
+A personal portfolio showcasing basic information, skills, education, contact details, and a contact form.
 
-- HTML5 Structure
-- Semantic HTML
-- Headings & Paragraphs
-- Lists
-- Images
-- Tables
-- Links
-- Internal Navigation
-- Contact Links
-- Forms
-- Labels
-- Required Fields
+### 2. Restaurant Website
 
-### Skills Practiced
+A restaurant landing page featuring a menu, today's special dishes, pricing table, and contact information.
 
-- Semantic HTML
-- Clean Code Structure
-- Forms
-- Tables
-- Navigation
-- Accessibility Basics
+### 3. Student Registration Form
+
+A complete student registration form using different HTML form elements and input types.
+
+### 4. Tech Conference Website
+
+A conference website with speaker information, event schedule, registration form, and contact section.
+
+### 5. Travel Agency Website
+
+A travel website displaying destinations, tour packages, booking form, image gallery, and contact information.
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
-- HTML5
-
----
-
-## Future Projects
-
-- Personal Portfolio ✅
-- Restaurant Menu
-- Registration Form
-- Blog Page
-- Event Landing Page
-- Travel Website
-- Complete Multi-page HTML Website
+* HTML5
 
 ---
 
-## Learning Status
+## 📚 HTML Concepts Practiced
 
-- HTML Theory ✅ Completed
-- HTML Projects 🚧 In Progress
-- CSS ⏳ Coming Soon
-- JavaScript ⏳ Coming Soon
-
----
-
-## About Me
-
-Hi, I'm **Het Patel**.
-
-I'm currently learning Full Stack Web Development from scratch by building projects instead of only watching tutorials.
-
-My goal is to become a professional Full Stack Developer.
-
----
-
-## Connect With Me
-
-📧 Email: het662p@gmail.com
+* HTML Document Structure
+* Semantic HTML Elements
+* Headings & Paragraphs
+* Lists
+* Images
+* Hyperlinks
+* Internal Navigation
+* Tables
+* Forms
+* Labels
+* Input Types
+* Radio Buttons
+* Checkboxes
+* Select Menus
+* Textareas
+* Buttons
+* Accessibility Basics
 
 ---
 
-⭐ Thank you for visiting my repository!
+## 🎯 Learning Goal
+
+The purpose of these projects was to build a strong foundation in HTML by creating complete webpages without relying on CSS or JavaScript.
+
+---
+
+## 🚀 Future Improvements
+
+After learning CSS and JavaScript, these projects will be upgraded with:
+
+* Modern UI Design
+* Responsive Layouts
+* Animations
+* Interactive Features
+* Better Accessibility
+* Improved User Experience
+
+---
+
+## 👨‍💻 Author
+
+**Het Patel**
+
+Currently learning Full Stack Web Development by building projects from scratch every day.
